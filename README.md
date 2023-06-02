@@ -1,6 +1,6 @@
 ## Hi there 👋🏽
 
-I am an aspiring DevOps engineer, I am deeply passionate about leveraging the latest technologies to solve complex problems and create innovative solutions. To me, there is nothing more exciting than exploring new opportunities to continue my journey of growth and learning. I will be contributing many exciting projects on this platform and I hope you enjoy it!
+I am an aspiring Cloud/DevOps engineer, I am deeply passionate about leveraging the latest technologies to solve complex problems and create innovative solutions. To me, there is nothing more exciting than exploring new opportunities to continue my journey of growth and learning. I will be contributing many exciting projects on this platform and I hope you enjoy it!
 
 ## Skills
 
