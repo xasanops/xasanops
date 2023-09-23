@@ -11,15 +11,9 @@ I am an aspiring Cloud/DevOps engineer, I am deeply passionate about leveraging 
   <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" hspace="10"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="40" height="40" hspace="10"/></a>
  <a href="https://www.linux.com/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" hspace="10"/></a>
-</p>
-
-## Currently Upskilling and Looking to Learn 👇🏽
-
-<p align="left">
+ <p align="left">
   <a href="https://about.gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="37" height="37" hspace="10"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" hspace="10"/></a>
-  <a href="https://kubernetes.io/docs/concepts/overview/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="K8s" width="50" height="50" hspace="10"/></a>
-  <a href="https://nodejs.org/en/about" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="K8s" width="50" height="50" hspace="10"/></a> 
 </p>
 
 ## Come Connect with Me 👋🏽
